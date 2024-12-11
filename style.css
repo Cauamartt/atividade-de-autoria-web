@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    
+}
+header {
+    background-color: #ffffff;
+}
+footer {
+    background-color: #343a40;
+    color: rgb(238, 238, 238);
+    text-align: center;
+    padding: 10px 0;
+}
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+img {
+    width: 130px;
+    height: 130px;  
+}
+.card {
+    margin-bottom: 20px;
+}
